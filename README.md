@@ -6,7 +6,7 @@ Car Price Prediction System
 
    run the following command:
 
->$pip install -r requirements.txt
+    >$pip install -r requirements.txt
 
 2. Create new sqlLite Database
 
