@@ -39,7 +39,7 @@ numpy==1.17.2
 packaging==19.1
 pbr==5.4.3
 pexpect==4.7.0
-Pillow==6.1.0
+Pillow==9.0.1
 pluggy==0.13.0
 prettytable==0.7.2
 property-manager==2.3.1
