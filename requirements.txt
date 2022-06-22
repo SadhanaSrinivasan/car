@@ -35,7 +35,7 @@ joblib==0.13.2
 lxml==4.4.1
 MarkupSafe==1.1.1
 more-itertools==7.2.0
-numpy==1.17.2
+numpy==1.22.0
 packaging==19.1
 pbr==5.4.3
 pexpect==4.7.0
